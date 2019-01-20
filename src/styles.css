@@ -1,0 +1,5 @@
+/* You can add global styles to this file, and also import other style files */
+.mapboxgl-ctrl-top-left {
+    top: 13px;
+    left: 0;
+}
